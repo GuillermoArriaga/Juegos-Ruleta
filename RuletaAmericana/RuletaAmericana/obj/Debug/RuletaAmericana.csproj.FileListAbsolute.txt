@@ -1,0 +1,10 @@
+E:\Codes\VisualStudio2017\Projects\RuletaAmericana\RuletaAmericana\bin\Debug\RuletaAmericana.exe.config
+E:\Codes\VisualStudio2017\Projects\RuletaAmericana\RuletaAmericana\bin\Debug\RuletaAmericana.exe
+E:\Codes\VisualStudio2017\Projects\RuletaAmericana\RuletaAmericana\bin\Debug\RuletaAmericana.pdb
+E:\Codes\VisualStudio2017\Projects\RuletaAmericana\RuletaAmericana\obj\Debug\RuletaAmericana.csprojResolveAssemblyReference.cache
+E:\Codes\VisualStudio2017\Projects\RuletaAmericana\RuletaAmericana\obj\Debug\RuletaAmericana.Form1.resources
+E:\Codes\VisualStudio2017\Projects\RuletaAmericana\RuletaAmericana\obj\Debug\RuletaAmericana.Properties.Resources.resources
+E:\Codes\VisualStudio2017\Projects\RuletaAmericana\RuletaAmericana\obj\Debug\RuletaAmericana.csproj.GenerateResource.Cache
+E:\Codes\VisualStudio2017\Projects\RuletaAmericana\RuletaAmericana\obj\Debug\RuletaAmericana.csproj.CoreCompileInputs.cache
+E:\Codes\VisualStudio2017\Projects\RuletaAmericana\RuletaAmericana\obj\Debug\RuletaAmericana.exe
+E:\Codes\VisualStudio2017\Projects\RuletaAmericana\RuletaAmericana\obj\Debug\RuletaAmericana.pdb

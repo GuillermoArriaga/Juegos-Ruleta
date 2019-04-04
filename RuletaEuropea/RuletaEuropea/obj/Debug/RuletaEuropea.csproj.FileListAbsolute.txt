@@ -1,0 +1,10 @@
+E:\Codes\VisualStudio2017\Projects\RuletaEuropea\RuletaEuropea\bin\Debug\RuletaEuropea.exe.config
+E:\Codes\VisualStudio2017\Projects\RuletaEuropea\RuletaEuropea\bin\Debug\RuletaEuropea.exe
+E:\Codes\VisualStudio2017\Projects\RuletaEuropea\RuletaEuropea\bin\Debug\RuletaEuropea.pdb
+E:\Codes\VisualStudio2017\Projects\RuletaEuropea\RuletaEuropea\obj\Debug\RuletaEuropea.csprojResolveAssemblyReference.cache
+E:\Codes\VisualStudio2017\Projects\RuletaEuropea\RuletaEuropea\obj\Debug\RuletaEuropea.Form1.resources
+E:\Codes\VisualStudio2017\Projects\RuletaEuropea\RuletaEuropea\obj\Debug\RuletaEuropea.Properties.Resources.resources
+E:\Codes\VisualStudio2017\Projects\RuletaEuropea\RuletaEuropea\obj\Debug\RuletaEuropea.csproj.GenerateResource.Cache
+E:\Codes\VisualStudio2017\Projects\RuletaEuropea\RuletaEuropea\obj\Debug\RuletaEuropea.csproj.CoreCompileInputs.cache
+E:\Codes\VisualStudio2017\Projects\RuletaEuropea\RuletaEuropea\obj\Debug\RuletaEuropea.exe
+E:\Codes\VisualStudio2017\Projects\RuletaEuropea\RuletaEuropea\obj\Debug\RuletaEuropea.pdb
